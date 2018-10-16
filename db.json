@@ -1,14 +1,40 @@
+{ "bidDetailResponse":[{
+"bidDtlName":"ABQ-01/07/2019-TEST",
+	"bidDetailID": 123456,
+	"publishDateTime": "30-AUG-2018 08.14.38"
+},
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 1",
+	"bidDetailID": 158869,
+	"publishDateTime": "30-AUG-2018 08.15.39"
+},{
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 2",
+	"bidDetailID": 158870,
+	"publishDateTime": "30-AUG-2018 08.15.40"
+},{ 
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 3",
+	"bidDetailID": 158871,
+	"publishDateTime": "30-AUG-2018 08.15.41"
+},{
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 4",
+	"bidDetailID": 158872,
+	"publishDateTime": "30-AUG-2018 08.15.42"
+},{
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 5",
+	"bidDetailID": 158873,
+	"publishDateTime": "30-AUG-2018 08.15.43"
+},{
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 6",
+	"bidDetailID": 158874,
+	"publishDateTime": "30-AUG-2018 08.15.44"
+},{
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 7",
+	"bidDetailID": 158875,
+	"publishDateTime": "30-AUG-2018 08.15.45"
+},{
+"bidDtlName":"ABQ-01/07/2019-FT AGENTS 8",
+	"bidDetailID": 158876,
+	"publishDateTime": "30-AUG-2018 08.15.46"
 }
+]}
